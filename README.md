@@ -1,2 +1,0 @@
-# jbigames
-app-ads.txt
